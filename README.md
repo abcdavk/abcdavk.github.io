@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-**abcdavk/abcdavk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**The Cursed Blacksmith** is a Minecraft Bedrock mod creator 📘. We create various mods that change your Minecraft gameplay to make it ✨_exciting_✨! Come join our journey ⛰️!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on SKIES
-- 🌱 I’m currently learning Javascript
-- 💬 Ask me about World Generation
+- 🔭 We are currently working on SKIES
