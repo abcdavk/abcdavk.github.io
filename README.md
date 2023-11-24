@@ -4,4 +4,6 @@
 
 Here are some ideas to get you started:
 
-- [Join Our Discord!](https://discord.com/invite/ZeVUDhuwpG)
+- 💬 [Join Our Discord!](https://discord.com/invite/ZeVUDhuwpG)
+
+- 📽️ [Subscribe @abcdave](https://www.youtube.com/@abcdave/videos)
