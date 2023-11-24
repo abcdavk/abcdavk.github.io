@@ -1,6 +1,11 @@
+---
+layout: default
+title: Introduction
+---
+
 <img src="https://avatars.githubusercontent.com/u/81420586?v=4" alt="TCB" style="height: 100px; width:100px;"/>
 
-### Introduction
+### Hi There 👋
 
 **The Cursed Blacksmith** is a Minecraft Bedrock mod creator. We create various mods that change your Minecraft gameplay to make it ✨_exciting_✨! Come join our journey!
 
