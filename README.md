@@ -1,4 +1,4 @@
-<img src="[https://avatars.githubusercontent.com/u/81420586?v=4" alt="TCB" style="height: 100px; width:100px;"/>
+<img src="https://avatars.githubusercontent.com/u/81420586?v=4" alt="TCB" style="height: 100px; width:100px;"/>
 
 ### Introduction
 
