@@ -11,4 +11,4 @@ Easily create a shop system without typing a lot of code with myShopLoader. mSL 
 
 # How to get started?
 
-First of all, download and install myShopLoader to your Minecraft. Then create a world and activate the Beta API. Click the "Create world" button.
+First of all, download and install myShopLoader to your Minecraft. Then create a world and activate the [Beta API](https://abcdavk.github.io/install.html#6-enable-experimental-features). Click the "Create world" button.
