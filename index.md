@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 - 📽️ [Subscribe @abcdave](https://www.youtube.com/@abcdave/videos)
 
+- 🐱‍👤 [Github](https://github.com/abcdavk)
+
 - 📦 [MCPEDL](https://mcpedl.com/user/abcdave/)
 
 - 📦 [Modbay](https://modbay.org/user/abcdave/)
