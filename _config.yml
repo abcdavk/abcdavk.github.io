@@ -5,9 +5,6 @@ remote_theme: carlosperate/jekyll-theme-rtd
 
 site_favicon: 'https://avatars.githubusercontent.com/u/81420586?v=4'
 sticky_navigation: true
-prev_next_buttons_location: None
-prev_next_buttons_location: top
-prev_next_buttons_location: bottom
 prev_next_buttons_location: both
 
 # Development server config, needed to load some of the content
