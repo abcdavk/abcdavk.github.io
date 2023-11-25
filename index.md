@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - 💬 [Join Our Discord!](https://discord.com/invite/ZeVUDhuwpG)
 
 - 📽️ [Subscribe @abcdave](https://www.youtube.com/@abcdave/videos)
+
+- 📦 [MCPEDL](https://mcpedl.com/user/abcdave/)
+
+- 📦 [Modbay](https://modbay.org/user/abcdave/)
+
+- 5️⃣[Fiverr](https://www.fiverr.com/dave_64)
