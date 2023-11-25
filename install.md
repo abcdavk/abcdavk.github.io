@@ -21,4 +21,5 @@ There are several ways to install Minecraft Bedrock Mods, I would recommend usin
 3. Wait a seconds until the mods already installed.
 4. Create a new world.
 5. Active the behavior packs and/or resource pack.
-6. Enable experimental settings.
+6. Enable experimental features.
+7. Finish!
